@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "channel": "stable",
+  "version": "0.8.9",
+  "url": "https://github.com/minhsang78789/AI-Code-Assistant-Updates/releases/download/v0.8.9-pilot.1/AI-CODE-ASSISTANT-Setup-0.8.9.exe",
+  "sha256": "1ebf61e686edc05a78e151eba7030c707d7edf961e8214b1a21b385136b6001e",
+  "sizeBytes": 127511776,
+  "publishedAt": "2026-09-20T17:50:06Z",
+  "mandatory": false,
+  "releaseNotes": "AI CODE ASSISTANT v0.8.9"
+}
