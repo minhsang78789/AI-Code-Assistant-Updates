@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
   "channel": "stable",
-  "version": "0.8.10",
-  "url": "https://github.com/minhsang78789/AI-Code-Assistant-Updates/releases/download/v0.8.10-pilot.1/AI-CODE-ASSISTANT-Setup-0.8.10.exe",
-  "sha256": "668e02db1effafd574e01d585e99b90faed114c63c2b96859f6a96c798c53db5",
-  "sizeBytes": 127511335,
-  "publishedAt": "2026-09-20T18:32:06.467Z",
+  "version": "0.8.11",
+  "url": "https://github.com/minhsang78789/AI-Code-Assistant-Updates/releases/download/v0.8.11-pilot.1/AI-CODE-ASSISTANT-Setup-0.8.11.exe",
+  "sha256": "9fa752342ec6191f208a8d98d79f3e50b3358b8b383cf91cf17b23f65511b02a",
+  "sizeBytes": 127513274,
+  "publishedAt": "2026-09-21T21:01:03.786Z",
   "mandatory": false,
-  "releaseNotes": "AI CODE ASSISTANT v0.8.10"
+  "releaseNotes": "AI CODE ASSISTANT v0.8.11"
 }
